@@ -1,2 +1,2 @@
 Bootstrap:docker
-From: neurodebian:latest
+From: neurodebian:precise
