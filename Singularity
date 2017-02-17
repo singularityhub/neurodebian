@@ -1,2 +1,2 @@
-Bootstrap:docker
-From: neurodebian:latest
+Bootstrap: docker
+From: neurodebian:jessie
