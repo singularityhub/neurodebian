@@ -1,2 +1,2 @@
-Bootstrap:docker
-From: neurodebian:stretch
+Bootstrap: docker
+From: neurodebian:xenial
